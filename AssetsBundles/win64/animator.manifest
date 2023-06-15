@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 787107358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3db45f948e0cad65a80fb8a92e5e8449
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/1tie.controller
+- Assets/Animation/2win.controller
+- Assets/Animation/player1.controller
+- Assets/Animation/player2.controller
+- Assets/Animation/1win.controller
+- Assets/Animation/2tie.controller
+Dependencies:
+- "F:/Homework/2d\u5F15\u64CE\u6E38\u620F\u5F00\u53D1/2040622158-\u533A\u5353\u8363-15395883476-\u8E74\u97A0\u5927\u6218/2040622158-\u533A\u5353\u8363-15395883476-\u6E90\u7801\u53CA\u8D44\u6E90/./AssetsBundles/win64/animation"

@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 3816546533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d6692d0a8eac08e5a318b56dc1de05e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1503eec984d2e53a0c07d17cd262fd63
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 70
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c24e9215bb1addc42abb1252c7ea3f4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9ac4f00a9edafb45af8fc07b1928589, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/player1.prefab
+- Assets/Prefabs/player2.prefab
+Dependencies:
+- "F:/Homework/2d\u5F15\u64CE\u6E38\u620F\u5F00\u53D1/2040622158-\u533A\u5353\u8363-15395883476-\u8E74\u97A0\u5927\u6218/2040622158-\u533A\u5353\u8363-15395883476-\u6E90\u7801\u53CA\u8D44\u6E90/./AssetsBundles/win64/animator"

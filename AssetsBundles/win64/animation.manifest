@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3274215757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4091ebac4cdce73d2480f36f800f4244
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82cb9ee6ae0860216160161155692411
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/player1_tie.anim
+- Assets/Animation/player2_jump.anim
+- Assets/Animation/player2_tie.anim
+- Assets/Animation/player2_stand.anim
+- Assets/Animation/player1_stand.anim
+- Assets/Animation/player1_jump.anim
+- Assets/Animation/player1_win.anim
+- Assets/Animation/player2_run.anim
+- Assets/Animation/player1_run.anim
+- Assets/Animation/player2_win.anim
+Dependencies: []

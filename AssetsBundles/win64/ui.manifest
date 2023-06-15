@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1038745442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6843df29012df8e8f2b9d848a31e0e8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/UI/score.png
+- Assets/Resources/UI/balldoor.png
+- Assets/Resources/UI/bg1.jpg
+- Assets/Resources/UI/door2.png
+- Assets/Resources/UI/door1.png
+- Assets/Resources/UI/floor.jpg
+- Assets/Resources/UI/football.png
+Dependencies: []
